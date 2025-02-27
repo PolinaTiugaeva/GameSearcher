@@ -1,0 +1,7 @@
+loguru
+pika
+sqlmodel
+sqlalchemy
+psycopg
+psycopg-binary
+dependency_injector

@@ -1,0 +1,7 @@
+chromadb==0.5.11
+pyTelegramBotAPI==4.23.0
+python-dotenv
+pandas
+loguru
+dependency_injector
+pika

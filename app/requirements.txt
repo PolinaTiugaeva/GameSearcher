@@ -1,0 +1,11 @@
+python-dotenv
+loguru
+dependency_injector
+sqlmodel
+sqlalchemy
+psycopg
+psycopg-binary
+pika
+fastapi
+uvicorn
+pydantic-settings
